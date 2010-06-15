@@ -4,6 +4,6 @@ require 'roxml'
 
 module OpenAgent
 
-  autoload :Messages, "openagent/messages"
+  autoload :Messages, "openagent/messages.rb"
 
 end
