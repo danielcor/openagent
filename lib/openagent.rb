@@ -2,7 +2,8 @@ require 'rubygems'
 require 'uuid'
 require 'roxml'
 
-require 'openagent/messages.rb'
+require 'openagent/messages'
+
 
 module OpenAgent
 
