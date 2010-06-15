@@ -24,19 +24,10 @@
   <component name="FileColors" enabled="true" enabledForTabs="true" />
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="openagent.rb" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="openagent.rb" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/lib/openagent.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="44" selection-start="113" selection-end="113" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Rakefile" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Rakefile">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="51" selection-start="335" selection-end="335" vertical-scroll-proportion="0.16463415">
+            <state line="7" column="0" selection-start="101" selection-end="101" vertical-scroll-proportion="0.12804878">
               <folding />
             </state>
           </provider>
@@ -83,8 +74,8 @@
         <option value="$PROJECT_DIR$/lib/openagent/messages/header.rb" />
         <option value="$PROJECT_DIR$/lib/openagent/messages/sif_register.rb" />
         <option value="$PROJECT_DIR$/lib/openagent/messages.rb" />
-        <option value="$PROJECT_DIR$/lib/openagent.rb" />
         <option value="$PROJECT_DIR$/Rakefile" />
+        <option value="$PROJECT_DIR$/lib/openagent.rb" />
       </list>
     </option>
   </component>
@@ -352,16 +343,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/openagent.rb">
+    <entry file="file://$PROJECT_DIR$/Rakefile">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="44" selection-start="113" selection-end="113" vertical-scroll-proportion="0.0">
+        <state line="9" column="51" selection-start="335" selection-end="335" vertical-scroll-proportion="0.16463415">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Rakefile">
+    <entry file="file://$PROJECT_DIR$/lib/openagent.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="51" selection-start="335" selection-end="335" vertical-scroll-proportion="0.16463415">
+        <state line="7" column="0" selection-start="101" selection-end="101" vertical-scroll-proportion="0.12804878">
           <folding />
         </state>
       </provider>
