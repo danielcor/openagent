@@ -1,0 +1,6 @@
+README
+Rakefile
+lib/openagent.rb
+lib/openagent/messages/header.rb
+lib/openagent/messages/sif_register.rb
+Manifest
