@@ -33,10 +33,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="header.rb" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="messages.rb" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/lib/openagent/messages.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="1" column="41" selection-start="77" selection-end="77" vertical-scroll-proportion="0.018292682">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="header.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lib/openagent/messages/header.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="9" selection-start="27" selection-end="35" vertical-scroll-proportion="0.036585364">
+            <state line="2" column="9" selection-start="27" selection-end="35" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -65,6 +74,7 @@
         <option value="$PROJECT_DIR$/lib/openagent.rb" />
         <option value="$PROJECT_DIR$/lib/openagent/messages/header.rb" />
         <option value="$PROJECT_DIR$/lib/openagent/messages/sif_register.rb" />
+        <option value="$PROJECT_DIR$/lib/openagent/messages.rb" />
       </list>
     </option>
   </component>
@@ -125,6 +135,24 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="lib" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="OpenAgent" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="OpenAgent" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lib" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="openagent" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -293,13 +321,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/openagent.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="45" selection-start="116" selection-end="116" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lib/openagent/messages/sif_register.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="18" column="18" selection-start="434" selection-end="434" vertical-scroll-proportion="0.0">
@@ -309,7 +330,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/openagent/messages/header.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="9" selection-start="27" selection-end="35" vertical-scroll-proportion="0.036585364">
+        <state line="2" column="9" selection-start="27" selection-end="35" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/openagent.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="45" selection-start="116" selection-end="116" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/openagent/messages.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="41" selection-start="77" selection-end="77" vertical-scroll-proportion="0.018292682">
           <folding />
         </state>
       </provider>
