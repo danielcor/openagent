@@ -2,16 +2,16 @@
 
 Gem::Specification.new do |s|
   s.name = %q{openagent}
-  s.version = "0.0.2"
+  s.version = "0.0.3"
 
   s.required_rubygems_version = Gem::Requirement.new(">= 1.2") if s.respond_to? :required_rubygems_version=
   s.authors = ["Chris Whiteley"]
   s.date = %q{2010-06-15}
   s.description = %q{A SIF Development Kit}
   s.email = %q{hello @nospam@ openzis.org}
-  s.extra_rdoc_files = ["README", "lib/openagent.rb", "lib/openagent/messages.rb", "lib/openagent/messages/header.rb", "lib/openagent/messages/register.rb"]
-  s.files = ["Manifest", "README", "Rakefile", "lib/openagent.rb", "lib/openagent/messages.rb", "lib/openagent/messages/header.rb", "lib/openagent/messages/register.rb", "openagent.gemspec"]
-  s.homepage = %q{http://github.com/cwhiteley/OpenAgent}
+  s.extra_rdoc_files = ["README", "lib/openagent.rb", "lib/openagent/messages.rb", "lib/openagent/messages/header.rb", "lib/openagent/messages/register.rb", "lib/openagent/messages/unregister.rb"]
+  s.files = ["Manifest", "README", "Rakefile", "lib/openagent.rb", "lib/openagent/messages.rb", "lib/openagent/messages/header.rb", "lib/openagent/messages/register.rb","lib/openagent/messages/unregister.rb", "openagent.gemspec"]
+  s.homepage = %q{http://githubcom/cwhiteley/OpenAgent}
   s.rdoc_options = ["--line-numbers", "--inline-source", "--title", "Openagent", "--main", "README"]
   s.require_paths = ["lib"]
   s.rubyforge_project = %q{openagent}
