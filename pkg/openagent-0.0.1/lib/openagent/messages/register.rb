@@ -14,7 +14,6 @@ module OpenAgent
     class SIF_Register
       include ROXML
       xml_name 'SIF_Register'
-
       xml_accessor :sif_header, :as => SIF_Header
       xml_accessor :sif_name, :from => 'SIF_Name'
       xml_accessor :sif_version, :from => 'SIF_Version'
