@@ -5,3 +5,5 @@ require 'openagent/messages/sif_provision'
 require 'openagent/messages/sif_controlmessage'
 require 'openagent/messages/sif_event'
 require 'openagent/messages/sif_request'
+
+require 'openagent/sif'
