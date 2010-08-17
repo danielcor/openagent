@@ -24,37 +24,37 @@
   <component name="FileColors" enabled="true" enabledForTabs="true" />
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="register.rb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lib/openagent/messages/register.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="28" column="0" selection-start="879" selection-end="1104" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="unregister.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lib/openagent/messages/unregister.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="19" column="4" selection-start="421" selection-end="421" vertical-scroll-proportion="0.0">
+            <state line="7" column="51" selection-start="168" selection-end="168" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Rakefile" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Rakefile">
+      <file leaf-file-name="message.rb" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/lib/openagent/messages/message.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="60" selection-start="195" selection-end="195" vertical-scroll-proportion="0.0">
+            <state line="9" column="47" selection-start="249" selection-end="249" vertical-scroll-proportion="0.26086956">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="openagent.gemspec" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/openagent.gemspec">
+      <file leaf-file-name="messages.rb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/openagent/messages.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="20" selection-start="102" selection-end="102" vertical-scroll-proportion="0.0768">
+            <state line="2" column="35" selection-start="106" selection-end="106" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ack.rb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/openagent/messages/ack.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="10" column="71" selection-start="364" selection-end="364" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -71,15 +71,20 @@
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/README" />
-        <option value="$PROJECT_DIR$/lib/openagent/messages/header.rb" />
         <option value="$PROJECT_DIR$/lib/openagent/messages/sif_register.rb" />
         <option value="$PROJECT_DIR$/lib/openagent.rb" />
         <option value="$PROJECT_DIR$/pkg/openagent-0.0.1/openagent.gemspec" />
-        <option value="$PROJECT_DIR$/lib/openagent/messages.rb" />
         <option value="$PROJECT_DIR$/lib/openagent/messages/register.rb" />
         <option value="$PROJECT_DIR$/Rakefile" />
-        <option value="$PROJECT_DIR$/lib/openagent/messages/unregister.rb" />
         <option value="$PROJECT_DIR$/openagent.gemspec" />
+        <option value="$PROJECT_DIR$/lib/openagent/messages/unregister.rb" />
+        <option value="$PROJECT_DIR$/lib/openagent/messages.rb" />
+        <option value="$PROJECT_DIR$/Manifest" />
+        <option value="$PROJECT_DIR$/lib/openagent/messages/header.rb" />
+        <option value="$PROJECT_DIR$/lib/openagent/messages/ack.rb" />
+        <option value="$PROJECT_DIR$/lib/openagent/messages/message.rb" />
+        <option value="$PROJECT_DIR$/lib/openagent/messages/status.rb" />
+        <option value="$PROJECT_DIR$/lib/openagent/messages/error.rb" />
       </list>
     </option>
   </component>
@@ -124,20 +129,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="OpenAgent" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="OpenAgent" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="OpenAgent" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="pkg" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -319,16 +310,16 @@
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32894737" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32784432" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24958813" sideWeight="0.22076024" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Dependency Viewer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24937028" sideWeight="0.6608187" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24937028" sideWeight="0.66167665" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32894737" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -370,36 +361,30 @@
         <state line="0" column="4" selection-start="4" selection-end="4" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pkg/openagent-0.0.1/openagent.gemspec">
+    <entry file="file://$PROJECT_DIR$/test/unregister.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="156" selection-start="672" selection-end="672" vertical-scroll-proportion="0.35207823" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/openagent/messages/header.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="9" selection-start="27" selection-end="35" vertical-scroll-proportion="0.028301887" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/openagent/messages.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="31" selection-start="67" selection-end="67" vertical-scroll-proportion="0.028301887" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/openagent.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="27" selection-start="78" selection-end="78" vertical-scroll-proportion="0.11320755" />
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/openagent/messages/register.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="28" column="0" selection-start="879" selection-end="1104" vertical-scroll-proportion="0.0">
+        <state line="30" column="41" selection-start="946" selection-end="946" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/openagent/messages/unregister.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="4" selection-start="421" selection-end="421" vertical-scroll-proportion="0.0">
+        <state line="7" column="51" selection-start="168" selection-end="168" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Manifest">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="29" selection-start="294" selection-end="294" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -411,9 +396,51 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/openagent.gemspec">
+    <entry file="file://$PROJECT_DIR$/lib/openagent/messages/status.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="20" selection-start="102" selection-end="102" vertical-scroll-proportion="0.0768">
+        <state line="73" column="81" selection-start="2585" selection-end="2585" vertical-scroll-proportion="0.39240506">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/openagent/messages/ack.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="71" selection-start="364" selection-end="364" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/openagent/messages/error.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="6" selection-start="332" selection-end="332" vertical-scroll-proportion="0.28985506">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/openagent.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="51" selection-start="98" selection-end="98" vertical-scroll-proportion="0.20289855">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/openagent/messages/header.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="26" column="61" selection-start="695" selection-end="695" vertical-scroll-proportion="0.3478261">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/openagent/messages.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="35" selection-start="106" selection-end="106" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/openagent/messages/message.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="47" selection-start="249" selection-end="249" vertical-scroll-proportion="0.26086956">
           <folding />
         </state>
       </provider>

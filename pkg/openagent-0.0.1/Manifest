@@ -1,7 +1,0 @@
-Manifest
-README
-Rakefile
-lib/openagent.rb
-lib/openagent/messages.rb
-lib/openagent/messages/header.rb
-lib/openagent/messages/register.rb
