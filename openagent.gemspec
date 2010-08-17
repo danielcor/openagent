@@ -3,7 +3,7 @@ require 'rubygems'
 spec = Gem::Specification.new do |gem|
   gem.authors = 'Christopher Whiteley'
   gem.email = 'hello@openzis.org'
-  gem.homepage = %q{http://www.openzis.org/}
+  gem.homepage = %q{http://github.com/cwhiteley/openagent}
   gem.name = 'OpenAgent'
   gem.version = '0.5.0'
   gem.date = %q{2010-08-16}
