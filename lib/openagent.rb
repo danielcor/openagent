@@ -1,13 +1,15 @@
-require 'rubygems'
 require 'uuid'
 require 'roxml'
+require "net/http"
+require "net/https"
+require "uri"
 
-module ROXML
-    XML_PARSER = 'nokogiri' # or 'libxml'
-#    XML_PARSER = 'libxml' # or 'nokogiri'
-end
 
 require 'openagent/messages'
+require 'openagent/zone'
+require 'openagent/agent'
+require 'openagent/activity'
+
 
 
 module OpenAgent
